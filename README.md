@@ -1,5 +1,5 @@
-<h3 align="center">Frontend Dasturchi</h3>
-
+<h3 align="center">Azizbek Omonov</h3>
+<p>Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yilda yozda bpsh;agan.Hozirda JAvaScript chuqurroq va uning React kutubxonasinida ishlashni o'rganmoqchi bo'lgan dasturchi. </p>
 - 📫 How to reach me **zetblogeruz@gamail.com**
 
 <h3 align="left">Connect with me:</h3>
