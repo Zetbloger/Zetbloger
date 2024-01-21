@@ -1,6 +1,9 @@
 <h3 align="center">Azizbek Omonov</h3>
-<p>Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yilda yozda bpsh;agan.Hozirda JAvaScript chuqurroq va uning React kutubxonasinida ishlashni o'rganmoqchi bo'lgan dasturchi. </p>
-  [📫Telegram](https://t.me/zetbloger) 
+
+Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yilda yozda bpsh;agan.Hozirda JAvaScript chuqurroq va uning React kutubxonasinida ishlashni o'rganmoqchi bo'lgan dasturchi.
+
+[📫Telegram](https://t.me/zetbloger) |[📩Email](https://www.gmail.com)
+
 - 📫 How to reach me **zetblogeruz@gamail.com**
 
 <h3 align="left">Connect with me:</h3>
