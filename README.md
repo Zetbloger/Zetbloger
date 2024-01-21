@@ -1,6 +1,6 @@
 <h3 align="center">Frontend Dasturchi</h3>
 
-- 📫 How to reach me **Zetblogeruz@gmail.com**
+- 📫Mening pochtam  **Zetblogeruz@gmail.com**
 
 <h3 align="left">Men mavjud bo'lgan va meni topib o'lishingiz mumkin bo'lgan ishtimoiy tarmoqlar:</h3>
 <p align="left">
