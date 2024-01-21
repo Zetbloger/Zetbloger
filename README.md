@@ -1,10 +1,11 @@
 <h3 align="center">Azizbek Omonov</h3>
 <p>Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yilda yozda bpsh;agan.Hozirda JAvaScript chuqurroq va uning React kutubxonasinida ishlashni o'rganmoqchi bo'lgan dasturchi. </p>
+  [📫Telegram](https://t.me/zetbloger) 
 - 📫 How to reach me **zetblogeruz@gamail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/1_azizbek.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_azizbek.uz" height="30" width="40" /></a>
+<a href="https://instagram.com/1_azizbek.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profilTe-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1_azizbek.uz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zetbloger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zetbloger" height="30" width="40" /></a>
 </p>
 
